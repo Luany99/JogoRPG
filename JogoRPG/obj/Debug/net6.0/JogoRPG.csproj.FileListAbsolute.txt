@@ -1,0 +1,30 @@
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\bin\Debug\net6.0\JogoRPG.exe
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\bin\Debug\net6.0\JogoRPG.deps.json
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\bin\Debug\net6.0\JogoRPG.runtimeconfig.json
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\bin\Debug\net6.0\JogoRPG.dll
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\bin\Debug\net6.0\JogoRPG.pdb
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.AssemblyReference.cache
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfoInputs.cache
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfo.cs
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.dll
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\obj\Debug\net6.0\refint\JogoRPG.dll
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.pdb
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.genruntimeconfig.cache
+C:\Users\Ruan9\source\repos\JogoRPG\JogoRPG\obj\Debug\net6.0\ref\JogoRPG.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\bin\Debug\net6.0\JogoRPG.exe
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\bin\Debug\net6.0\JogoRPG.deps.json
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\bin\Debug\net6.0\JogoRPG.runtimeconfig.json
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\bin\Debug\net6.0\JogoRPG.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\bin\Debug\net6.0\JogoRPG.pdb
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.AssemblyReference.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfoInputs.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.AssemblyInfo.cs
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\obj\Debug\net6.0\refint\JogoRPG.dll
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.pdb
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\obj\Debug\net6.0\JogoRPG.genruntimeconfig.cache
+C:\Users\Ruan9\OneDrive\Área de Trabalho\Meusprojetosluany\JogoRPG\JogoRPG\obj\Debug\net6.0\ref\JogoRPG.dll
